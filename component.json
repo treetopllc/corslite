@@ -1,0 +1,21 @@
+{
+  "name": "corslite",
+  "repo": "treetopllc/corslite",
+  "description": "xhr for browsers and ie",
+  "version": "0.0.7",
+  "keywords": [
+    "cors",
+    "mapbox"
+  ],
+  "development": {
+    "tape": "~0.3.3",
+    "mocha": "~1.20.1",
+    "zuul": "~1.6.5"
+  },
+  "main": "corslite.js",
+  "scripts": [
+    "corslite.js",
+    "server.js"
+  ],
+  "license": "MIT"
+}
